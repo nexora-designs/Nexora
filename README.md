@@ -11,9 +11,7 @@ This static HTML page outlines how we handle user data, payment information, and
 ## 🌐 Live Page
 
 View the live privacy policy here:  
-👉 [https://your-username.github.io/nexora/privacy.html](https://nexora-designs.github.io/nexora/privacy.html)
-
-_(Replace `your-username` with your actual GitHub username)_
+👉 [https://nexora-designs.github.io/Nexora/privacy.html](https://nexora-designs.github.io/Nexora/privacy.html)
 
 ## 📁 Files
 
